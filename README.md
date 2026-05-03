@@ -10,6 +10,8 @@ A Python-based voice assistant that recognizes spoken commands and performs basi
 - Open websites (Google, YouTube, StackOverflow)
 - Wikipedia search and summary
 - Speak responses using text-to-speech
+- Open WhatsApp Web, Microsoft Edge, and Opera GX
+- Search on Google, YouTube, StackOverflow, Wikipedia, Edge, and Opera GX
 - Tell current time
 
 ---
@@ -21,6 +23,21 @@ The assistant recognizing and executing a voice command:
 ![Jarvis Demo](demo.png)
 
 ---
+
+## Example Commands
+- open youtube
+- search python tutorial on youtube
+- open google
+- search cricket score on google
+- open stack overflow
+- search react hooks on stack overflow
+- open wikipedia
+- wikipedia taj mahal
+- open whatsapp
+- open edge
+- edge search latest news
+- open opera gx
+- opera gx search gaming laptop
 
 ## Tech Stack
 
@@ -34,7 +51,7 @@ The assistant recognizing and executing a voice command:
 ## How to Run
 
 1. Clone the repository
-   git clone https://github.com/Parinay-Chauhan/python-voice-assistant
+   git clone https://github.com/Parinay-Chauhan/jarvis-voice-assistant
 
 2. Install dependencies
    pip install -r requirements.txt
